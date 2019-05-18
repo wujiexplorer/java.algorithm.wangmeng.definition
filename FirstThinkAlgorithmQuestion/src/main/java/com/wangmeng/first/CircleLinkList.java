@@ -79,9 +79,9 @@ public class CircleLinkList {
             Child leaveChild=temp.nextChild;//要退出的小孩
             System.out.println("当前退出的小孩编号为:" +leaveChild.no);
             temp.nextChild=leaveChild.nextChild;
-            if (leaveChild.no==firstChild.no) {//如果要退出的小孩是第一个小孩,则将第一个小孩重置为退出小孩的下一个小孩
-                this.firstChild=leaveChild.nextChild;
-            }
+//            if (leaveChild.no==firstChild.no) {//如果要退出的小孩是第一个小孩,则将第一个小孩重置为退出小孩的下一个小孩
+//                this.firstChild=leaveChild.nextChild;
+//            }
             temp=temp.nextChild;
             this.playBoys--;//玩游戏人数少一个
         }
