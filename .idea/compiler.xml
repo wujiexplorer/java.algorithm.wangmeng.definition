@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="FirstThinkAlgorithmQuestion" />
+        <module name="googleThinkAlgorithmQuestion" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="FirstThinkAlgorithmQuestion" target="1.5" />
+      <module name="googleThinkAlgorithmQuestion" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

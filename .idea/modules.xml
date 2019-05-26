@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FirstThinkAlgorithmQuestion/FirstThinkAlgorithmQuestion.iml" filepath="$PROJECT_DIR$/FirstThinkAlgorithmQuestion/FirstThinkAlgorithmQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleThinkAlgorithmQuestion/googleThinkAlgorithmQuestion.iml" filepath="$PROJECT_DIR$/googleThinkAlgorithmQuestion/googleThinkAlgorithmQuestion.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java.algorithm.wangmeng.definition.iml" filepath="$PROJECT_DIR$/.idea/java.algorithm.wangmeng.definition.iml" />
     </modules>
   </component>
