@@ -11,7 +11,7 @@ public class BinaryCount {
 
     public static void main(String[] args) {
         int count = 0;
-        int x =  16;
+        int x =  3;
         while(x > 0){
             count ++;
             x &= (x-1);
